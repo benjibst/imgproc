@@ -1,0 +1,4 @@
+#ifndef IMGPROC_CANNY_H
+#define IMGPROC_CANNY_H
+
+#endif //IMGPROC_CANNY_H
